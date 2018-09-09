@@ -1,0 +1,45 @@
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\bin\Debug\Primary School.exe.config
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\bin\Debug\Primary School.exe
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\bin\Debug\Primary School.pdb
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Add_Gurdian.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Add_Subject.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Admit.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.HomePage.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Login.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.NewTeacher.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Properties.Resources.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Search.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Searching_data.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Search_Gurdian.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Search_Subject.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.Search_Teacher.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary_School.updateForm.resources
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary School.csproj.GenerateResource.Cache
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary School.exe
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary School.pdb
+C:\Users\Binayak_Ray\documents\visual studio 2013\Projects\Primary School\obj\Debug\Primary School.csprojResolveAssemblyReference.cache
+E:\3-1\4 db\4. lab\Code\Primary School\bin\Debug\Primary School.exe.config
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary School.exe
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary School.pdb
+E:\3-1\4 db\4. lab\Code\Primary School\bin\Debug\Primary School.exe
+E:\3-1\4 db\4. lab\Code\Primary School\bin\Debug\Primary School.pdb
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Add_Gurdian.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Add_Subject.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Admit.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.HomePage.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Login.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.NewTeacher.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Properties.Resources.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Searching_data.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Search_Gurdian.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Search_Subject.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Search_Teacher.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary School.csproj.GenerateResource.Cache
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.updateStudentForm.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.UpdateTeacherForm.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.FillTermResult.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.SearchResult.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Search.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.AddClass.resources
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary School.csprojResolveAssemblyReference.cache
+E:\3-1\4 db\4. lab\Code\Primary School\obj\Debug\Primary_School.Statistics.resources

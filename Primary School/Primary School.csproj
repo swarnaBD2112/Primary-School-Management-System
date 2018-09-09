@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C855D4D1-B728-4F7D-AD55-009677100A39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Primary_School</RootNamespace>
+    <AssemblyName>Primary School</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddClass.Designer.cs">
+      <DependentUpon>AddClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Gurdian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Gurdian.Designer.cs">
+      <DependentUpon>Add_Gurdian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Subject.Designer.cs">
+      <DependentUpon>Add_Subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admit.Designer.cs">
+      <DependentUpon>Admit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection_Method.cs" />
+    <Compile Include="FillTermResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FillTermResult.Designer.cs">
+      <DependentUpon>FillTermResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewTeacher.Designer.cs">
+      <DependentUpon>NewTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchResult.Designer.cs">
+      <DependentUpon>SearchResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchStudent.Designer.cs">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Searching_data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Searching_data.Designer.cs">
+      <DependentUpon>Searching_data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Gurdian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Gurdian.Designer.cs">
+      <DependentUpon>Search_Gurdian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Subject.Designer.cs">
+      <DependentUpon>Search_Subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Teacher.Designer.cs">
+      <DependentUpon>Search_Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics.Designer.cs">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateStudentForm.Designer.cs">
+      <DependentUpon>updateStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateTeacherForm.Designer.cs">
+      <DependentUpon>UpdateTeacherForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddClass.resx">
+      <DependentUpon>AddClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Gurdian.resx">
+      <DependentUpon>Add_Gurdian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Subject.resx">
+      <DependentUpon>Add_Subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admit.resx">
+      <DependentUpon>Admit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FillTermResult.resx">
+      <DependentUpon>FillTermResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTeacher.resx">
+      <DependentUpon>NewTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SearchResult.resx">
+      <DependentUpon>SearchResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchStudent.resx">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searching_data.resx">
+      <DependentUpon>Searching_data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Gurdian.resx">
+      <DependentUpon>Search_Gurdian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Subject.resx">
+      <DependentUpon>Search_Subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Teacher.resx">
+      <DependentUpon>Search_Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics.resx">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateStudentForm.resx">
+      <DependentUpon>updateStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateTeacherForm.resx">
+      <DependentUpon>UpdateTeacherForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pp.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p5.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p7.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p8.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p12.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p9.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sr.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color-wheel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p90.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
